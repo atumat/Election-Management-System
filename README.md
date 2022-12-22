@@ -2,3 +2,6 @@ Python is a high-level, general-purpose programming language.  Code readabilit
 
 
 MySQL is an open-source relational database management system. As with other relational databases. A relational database includes tables containing rows and columns. For example, a typical business order entry database would include a table that describes a customer with columns for name, address, phone number and so forth.
+
+
+The connect() function of the mysql. connector module is used to establish a connection between the MySQL database and Python. When we call the method, we send the connection object along with the database information, including HostName, username, and password.
