@@ -1,9 +1,1 @@
-# Election-Management-System
-Election Management System using Python MySQL connectivity to reduce the manual work of handling elections
-The main modules are -
-Election Votes- contains all functionalities related to votes
-Election Dates-manages dates
-Registration Modules-registration related functionalities
-Candidate Module-Details of candidates
-Party Symbol
-State Elections
+Python is a high-level, general-purpose programming language.  Code readability is prioritised in its design philosophy, which makes heavy use of indentation. Python uses garbage collection and has dynamic typing. It supports a variety of paradigms for programming, including functional, object-oriented, and structured programming.
