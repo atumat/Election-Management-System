@@ -17,4 +17,4 @@ LEN	Returns the length of a string
 LOWER	Converts a string to lower-case
 LTRIM	Removes leading spaces from a string
 
-First, it prints the General Election Commission Rules
+First, it prints the General Election Commission Rules and then the Preamble
