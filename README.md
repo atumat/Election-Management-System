@@ -16,3 +16,5 @@ LEFT	Extracts a number of characters from a string (starting from left)
 LEN	Returns the length of a string
 LOWER	Converts a string to lower-case
 LTRIM	Removes leading spaces from a string
+
+First, it prints the General Election Commission Rules
