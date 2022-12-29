@@ -18,3 +18,5 @@ LOWER	Converts a string to lower-case
 LTRIM	Removes leading spaces from a string
 
 First, it prints the General Election Commission Rules and then the Preamble and a Menu is displayed.This is a menu driven program,where a list of ioptions are diplayed and the user can select among those options.
+
+
