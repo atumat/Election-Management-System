@@ -1,0 +1,13 @@
+def Menu():                     # Function to display menu
+    print("*"*195)
+    print("MAIN MENU".center(190))
+    print("1. Insert Record/Records".center(190))
+    print("2. Display records as per Candidate Number".center(190))
+    print("   a. Sorted as per Candidate Number".center(190))
+    print("   b. Sorted as per Candidate Name".center(190))
+    print("   c. Sorted as per Election State".center(190))
+    print("3. Search Record Details as per the Candidate Number".center(190))
+    print("4. Update Record".center(190))
+    print("5. Delete Record".center(190))
+    print("6. Exit".center(190))
+    print("*"*195)
