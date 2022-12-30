@@ -10,12 +10,34 @@ The connect() function of the mysql. connector module is used to establish a con
 
 
 DATALENGTH	Returns the number of bytes used to represent an expression
+
+
+
 DIFFERENCE	Compares two SOUNDEX values, and returns an integer value
+
+
+
+
 FORMAT	Formats a value with the specified format
+
+
+
+
 LEFT	Extracts a number of characters from a string 
+
+
+
 LEN	Returns the length of a string
+
+
+
+
 LOWER	Converts a string to lower-case
+
+
+
 LTRIM	Removes leading spaces from a string
+
 
 First, it prints the General Election Commission Rules and then the Preamble and a Menu is displayed.This is a menu driven program,where a list of options are diplayed and the user can select among those options.
 
