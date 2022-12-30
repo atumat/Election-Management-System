@@ -17,7 +17,6 @@ DIFFERENCE	Compares two SOUNDEX values, and returns an integer value
 
 
 
-
 FORMAT	Formats a value with the specified format
 
 
