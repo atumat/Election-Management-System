@@ -4,7 +4,6 @@ MySQL is an open-source relational database management system. As with other rel
 
 
 
-
 Structured Query Language, abbreviated as SQL, is a language used in programming and designed for managing data held in a relational database management system, or for stream processing in a relational data stream management system.
 
 The connect() function of the mysql. connector module is used to establish a connection between the MySQL database and Python. When we call the method, we send the connection object along with the database information, including HostName, username, and password.
