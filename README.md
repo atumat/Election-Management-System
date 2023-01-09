@@ -9,11 +9,7 @@ Structured Query Language, abbreviated as SQL, is a language used in programming
 The connect() function of the mysql. connector module is used to establish a connection between the MySQL database and Python. When we call the method, we send the connection object along with the database information, including HostName, username, and password.
 
 
-DATALENGTH	Returns the number of bytes used to represent an expression
 
-
-
-DIFFERENCE	Compares two SOUNDEX values, and returns an integer value
 
 
 
