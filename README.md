@@ -11,22 +11,6 @@ The connect() function of the mysql. connector module is used to establish a con
 
 
 
-
-
-FORMAT	Formats a value with the specified format
-
-
-
-
-LEFT	Extracts a number of characters from a string 
-
-
-
-LEN	Returns the length of a string
-
-
-
-
 LOWER	Converts a string to lower-case
 
 
