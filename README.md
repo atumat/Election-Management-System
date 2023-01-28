@@ -1,6 +1,8 @@
  #Election Management System
  
- Election Mnagement System using Python-MySql Connectivity-
+ Election Management System using Python-MySql Connectivity-
+ 
+ 
      1) Python - https://en.wikipedia.org/wiki/Python_(programming_language)
 
 
