@@ -4,10 +4,11 @@
 <h3> TABLE OF CONTENTS </h3>
 <ol type="I">
     <li><a href="#intro"> Introduction </a></li>
-    <li><a href="#requirement"> Requirements </a></li>
-    <li><a href="#Menu"> Menu Diagram </a></li>
-    <li><a href="#dataset"> Dataset </a></li>
-    <li><a href="#usage"> Usage </a></li>
+    <li><a href="#requirement">Identifiers</a></li>
+    <li><a href="#requirement"> Functions(User defined)</a></li>
+    <li><a href="#Menu"> Functions (Built In)</a></li>
+    <li><a href="#dataset"> Requirements </a></li>
+    <li><a href="#usage"> Exensions Possible </a></li>
     <li><a href="#acknowledgement"> Acknowledgement </a></li>
 </ol>
 
@@ -18,16 +19,6 @@ The main objective of the Python Project on Election Management System is to man
 Registration. It manages the information about Election,Votes, and Registration. The project is totally built at administrative end and thus only the administration is
 guaranteed the access. The purpose is to build an Application Program to reduce the manual work for managing the Elections, Candidates, Votes, and Election Commission Rules. It tracks all the details about Election Commission Rules, Votes and Registrations.
 </p>
-
-
-
-
-
-
-
-
-
-
 
 <h2>Identifiers Used </h2>
 
