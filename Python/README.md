@@ -1,9 +1,5 @@
 <h1>Election Management System </h1>
-<p align="justify">
-The main objective of the Python Project on Election Management System is to manage the details of election,candidates, election commission rules, election Dates,
-Registration. It manages the information about Election,Votes, and Registration. The project is totally built at administrative end and thus only the administration is
-guaranteed the access. The purpose is to build an Application Program to reduce the manual work for managing the Elections, Candidates, Votes, and Election Commission Rules. It tracks all the details about Election Commission Rules, Votes and Registrations.
-</p>
+
 
 <h3> TABLE OF CONTENTS </h3>
 <ol type="I">
@@ -15,7 +11,13 @@ guaranteed the access. The purpose is to build an Application Program to reduce 
     <li><a href="#acknowledgement"> Acknowledgement </a></li>
 </ol>
 
+<h2>Introduction </h2>
 
+<p align="justify">
+The main objective of the Python Project on Election Management System is to manage the details of election,candidates, election commission rules, election Dates,
+Registration. It manages the information about Election,Votes, and Registration. The project is totally built at administrative end and thus only the administration is
+guaranteed the access. The purpose is to build an Application Program to reduce the manual work for managing the Elections, Candidates, Votes, and Election Commission Rules. It tracks all the details about Election Commission Rules, Votes and Registrations.
+</p>
 
 
 
