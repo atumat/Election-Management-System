@@ -19,10 +19,22 @@ guaranteed the access. The purpose is to build an Application Program to reduce 
         <h5>DispSearchCandNo(CANDIDATENO)</h5>
         <h5>Update</h5>
         <h5>Delete</h5>
-        
-       
     </li>
 </ul>
+❖ FUNCTIONS USED (USER DEFINED):
+1. def Menu()
+2. def MenuSort()
+3. def Create()
+4. def Insert()
+5. def DispSortCandNo()
+6. def DispSortName()
+7. def DispSortVotes()
+8. def DispSearchCandNo(CANDIDATENO)
+9. def Update()
+10. def Delete()
+
+
+
 
 
 <h2>Requirements</h2>
