@@ -9,7 +9,7 @@ guaranteed the access. The purpose is to build an Application Program to reduce 
 <h2>Identifiers Used </h2>
 <ul>
     <li>
-        <h5>Menu</h5><br>
+        <h5>Menu</h5>
         <h5>MenuSort</h5>
         <h5>Create</h5>
         <h5>Insert</h5>
@@ -25,15 +25,6 @@ guaranteed the access. The purpose is to build an Application Program to reduce 
 </ul>
 
 
-
-
-
-
-
-
-
-
-
 <h2>Requirements</h2>
 
 HARDWARE
@@ -44,15 +35,6 @@ SOFTWARE
 ❖ Operating System: Windows 8
 ❖ Python IDLE 3.7
 ❖ MySQL 5.7
-
-
-
-
-
-
-
-
-
 
 <h2>Acknowledgement</h2>
 <p align="justify">
