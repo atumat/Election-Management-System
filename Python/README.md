@@ -10,6 +10,15 @@ guaranteed the access. The purpose is to build an Application Program to reduce 
 <ul>
     <li>
         <h5>Menu</h5>
+        <h5>MenuSort</h5>
+        <h5> Create</h5>
+        <h5> Insert</h5>
+        <h5> DispSortCandNo</h5>
+        <h5>DispSortName</h5>
+        <h5>Menu</h5>
+        <h5>Menu</h5>
+        <h5>Menu</h5>
+        
        
     </li>
 
