@@ -5,7 +5,6 @@ The main objective of the Python Project on Election Management System is to man
 Registration. It manages the information about Election,Votes, and Registration. The project is totally built at administrative end and thus only the administration is
 guaranteed the access. The purpose is to build an Application Program to reduce the manual work for managing the Elections, Candidates, Votes, and Election Commission Rules. It tracks all the details about Election Commission Rules, Votes and Registrations.
 </p>
-
 <h2>Identifiers Used </h2>
 <ul>
     <li>
@@ -21,21 +20,34 @@ guaranteed the access. The purpose is to build an Application Program to reduce 
         <h5>Delete</h5>
     </li>
 </ul>
-❖ FUNCTIONS USED (USER DEFINED):
-1. def Menu()
-2. def MenuSort()
-3. def Create()
-4. def Insert()
-5. def DispSortCandNo()
-6. def DispSortName()
-7. def DispSortVotes()
-8. def DispSearchCandNo(CANDIDATENO)
-9. def Update()
-10. def Delete()
+FUNCTIONS USED (USER DEFINED):
+❖ def Menu()
+
+❖ def MenuSort()
 
 
+❖ def Create()
 
 
+❖ def Insert()
+
+
+❖ def DispSortCandNo()
+
+
+❖ def DispSortName()
+
+
+❖ def DispSortVotes()
+
+
+❖ def DispSearchCandNo(CANDIDATENO)
+
+
+❖ def Update()
+
+
+❖ def Delete()
 
 <h2>Requirements</h2>
 HARDWARE
