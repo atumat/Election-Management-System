@@ -7,7 +7,7 @@ guaranteed the access. The purpose is to build an Application Program to reduce 
 </p>
 
 <h2>Identifiers Used </h2>
-
+<ul>
     <li>
         <h5>Menu</h5>
         <h5>MenuSort</h5>
