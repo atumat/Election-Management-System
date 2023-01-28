@@ -21,6 +21,8 @@ guaranteed the access. The purpose is to build an Application Program to reduce 
     </li>
 </ul>
 FUNCTIONS USED (USER DEFINED):
+
+
 ❖ def Menu()
 
 ❖ def MenuSort()
@@ -66,10 +68,17 @@ SOFTWARE
 ❖ Operating System: Windows 8
 
 
-❖ Python IDLE 3.7
-
-
 ❖ MySQL 5.7
+
+FUNCTIONS USED(BUILT IN):
+
+❖  int
+
+❖  str
+
+❖  input
+
+
 
 
 
