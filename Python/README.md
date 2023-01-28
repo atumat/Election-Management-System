@@ -20,7 +20,7 @@ guaranteed the access. The purpose is to build an Application Program to reduce 
         <h5>Delete</h5>
     </li>
 </ul>
-FUNCTIONS USED (USER DEFINED):
+<h2>FUNCTIONS USED (USER DEFINED):</h2>
 
 
 ❖ def Menu()
@@ -51,6 +51,16 @@ FUNCTIONS USED (USER DEFINED):
 
 ❖ def Delete()
 
+
+
+<h2>FUNCTIONS USED (BUILT IN ):</h2>
+
+❖  int
+
+❖  str
+
+❖  input
+
 <h2>Requirements</h2>
 HARDWARE
 
@@ -70,13 +80,7 @@ SOFTWARE
 
 ❖ MySQL 5.7
 
-FUNCTIONS USED(BUILT IN):
 
-❖  int
-
-❖  str
-
-❖  input
 
 
 
