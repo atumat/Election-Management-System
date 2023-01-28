@@ -6,22 +6,28 @@ Registration. It manages the information about Election,Votes, and Registration.
 guaranteed the access. The purpose is to build an Application Program to reduce the manual work for managing the Elections, Candidates, Votes, and Election Commission Rules. It tracks all the details about Election Commission Rules, Votes and Registrations.
 </p>
 <h2>Identifiers Used </h2>
-<ul>
-    <li>
-        <h5>Menu</h5>
-        <h5>MenuSort</h5>
-        <h5>Create</h5>
-        <h5>Insert</h5>
-        <h5>DispSortCandNo</h5>
-        <h5>DispSortName</h5>
-        <h5>DispSortVotes</h5>
-        <h5>DispSearchCandNo(CANDIDATENO)</h5>
-        <h5>Update</h5>
-        <h5>Delete</h5>
-    </li>
-</ul>
-<h2>Functions Used (User Defined):</h2>
 
+❖  Menu
+
+❖  MenuSort
+
+❖  Create
+
+❖  Insert
+
+❖  DispSortCandNo
+
+❖  DispSortName
+
+❖  DispSortVotes
+
+❖  DispSearchCandNo(CANDIDATENO)
+
+❖  Update
+
+❖  Delete
+   
+<h2>Functions Used (User Defined):</h2>
 
 ❖ def Menu()
 
@@ -52,7 +58,6 @@ guaranteed the access. The purpose is to build an Application Program to reduce 
 ❖ def Delete()
 
 
-
 <h2>Functions Used (Built In):</h2>
 
 ❖  int
@@ -62,6 +67,7 @@ guaranteed the access. The purpose is to build an Application Program to reduce 
 ❖  input
 
 <h2>Requirements</h2>
+
 HARDWARE
 
 
@@ -71,9 +77,7 @@ HARDWARE
 
 ❖ Hard Disc
 
-
 SOFTWARE
-
 
 ❖ Operating System: Windows 8
 
