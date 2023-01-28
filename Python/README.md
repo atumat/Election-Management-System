@@ -1,8 +1,6 @@
 <h2>Requirements</h2>
 
 HARDWARE
-❖ Printer
-❖ Compact Disc
 ❖ RAM
 ❖ Hard Disc
 
@@ -10,8 +8,6 @@ SOFTWARE
 ❖ Operating System: Windows 8
 ❖ Python IDLE 3.7
 ❖ MySQL 5.7
-❖ Microsoft Word
-❖ Microsoft Powerpoint
 
 
 
