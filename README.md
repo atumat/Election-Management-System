@@ -4,6 +4,9 @@
  
  
      1) Python - https://en.wikipedia.org/wiki/Python_(programming_language)
+     
+     
+     2) MySql- https://en.wikipedia.org/wiki/MySQL
 
 
 
