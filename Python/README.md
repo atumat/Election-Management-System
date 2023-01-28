@@ -20,7 +20,7 @@ Registration. It manages the information about Election,Votes, and Registration.
 guaranteed the access. The purpose is to build an Application Program to reduce the manual work for managing the Elections, Candidates, Votes, and Election Commission Rules. It tracks all the details about Election Commission Rules, Votes and Registrations.
 </p>
 
-<h2>Identifiers Used </h2>
+<h2>Identifiers </h2>
 
 
 ❖  Menu
