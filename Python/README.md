@@ -7,7 +7,7 @@ guaranteed the access. The purpose is to build an Application Program to reduce 
 </p>
 
 <h2>Identifiers Used </h2>
-<ul>
+
     <li>
         <h5>Menu</h5>
         <h5>MenuSort</h5>
@@ -15,9 +15,10 @@ guaranteed the access. The purpose is to build an Application Program to reduce 
         <h5> Insert</h5>
         <h5> DispSortCandNo</h5>
         <h5>DispSortName</h5>
-        <h5>Menu</h5>
-        <h5>Menu</h5>
-        <h5>Menu</h5>
+        <h5> DispSortVotes</h5>
+        <h5>DispSearchCandNo(CANDIDATENO)</h5>
+        <h5>Update</h5>
+        <h5>Delete</h5>
         
        
     </li>
