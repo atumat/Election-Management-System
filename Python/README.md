@@ -20,7 +20,7 @@ guaranteed the access. The purpose is to build an Application Program to reduce 
         <h5>Delete</h5>
     </li>
 </ul>
-<h2>FUNCTIONS USED (USER DEFINED):</h2>
+<h2>Functions Used (User Defined):</h2>
 
 
 ❖ def Menu()
@@ -53,7 +53,7 @@ guaranteed the access. The purpose is to build an Application Program to reduce 
 
 
 
-<h2>FUNCTIONS USED (BUILT IN ):</h2>
+<h2>Functions Used (Built In):</h2>
 
 ❖  int
 
