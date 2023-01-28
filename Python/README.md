@@ -26,15 +26,28 @@ guaranteed the access. The purpose is to build an Application Program to reduce 
 
 
 <h2>Requirements</h2>
-
 HARDWARE
+
+
 ❖ RAM
+
+
+
 ❖ Hard Disc
 
+
 SOFTWARE
+
+
 ❖ Operating System: Windows 8
+
+
 ❖ Python IDLE 3.7
+
+
 ❖ MySQL 5.7
+
+
 
 <h2>Acknowledgement</h2>
 <p align="justify">
