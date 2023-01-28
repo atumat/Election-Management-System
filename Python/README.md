@@ -1,3 +1,23 @@
+<h1>Election Management System </h1>
+
+<p align="justify">
+The main objective of the Python Project on Election Management System is to manage the details of election,candidates, election commission rules, election Dates,
+Registration. It manages the information about Election,Votes, and Registration. The project is totally built at administrative end and thus only the administration is
+guaranteed the access. The purpose is to build an Application Program to reduce the manual work for managing the Elections, Candidates, Votes, and Election Commission Rules. It tracks all the details about Election Commission Rules, Votes and Registrations.
+<br>
+AVL Tree is a variant of the Binary Search Tree which uses rotation operations to keep the tree balanced. In this implementation, the class AVLTree inherits class BST and class AVL_node inherits class node. The basic operations of insertion and deletion (of a key-value pair) remains the same as in a BST, only modification being appropriate rotation operations at each level (when needed) to ensure the subtree rooted at each node remains balanced.
+</p>
+
+
+
+
+
+
+
+
+
+
+
 <h2>Requirements</h2>
 
 HARDWARE
