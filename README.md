@@ -52,13 +52,10 @@ to win seats in elections) are all virtual and based on assumptions.
 
 <h2 id="req">Requirements </h2>
  <p align="justify">
-   Python 8+ <br>
-   MySql 5.7+     <br>
+   Python 3.7+ <br>
+   MySql 5.7+  <br>
+   Windows 8+ <br>
  </p>
-
-
-
-
 
 
 
@@ -80,9 +77,13 @@ to win seats in elections) are all virtual and based on assumptions.
 
 <h2 id="biblio">Bibliography </h2>
  <p align="justify">
-   I referred the following , articles and course lectures while working on this project- <br>
- Python - https://en.wikipedia.org/wiki/Python_(programming_language)  <br> 
- MySq l-  https://en.wikipedia.org/wiki/MySQL   <br>
+  I referred the following , articles and course lectures while working on this project- <br>
+  https://en.wikipedia.org/wiki/Python_(programming_language)  <br> 
+  https://en.wikipedia.org/wiki/MySQL   <br>
+  https://docs.python.org/3/
+  https://sultan-chand.com/ws/python12/
+  https://docs.python.org/3/
+  https://sultan-chand.com/ws/python12/
  </p>
    
 
