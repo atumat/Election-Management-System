@@ -38,9 +38,12 @@
     <li><a href="#dataset"> Extensions Possible </a></li>
     <li><a href="#usage"> Bibliography </a></li>
     
- 
- 
-</ol>
+ </ol>
+ <h2 id="intro">Introduction</h2>
+ <p align="justify">
+   The main objective of the Python Project on Election Management System is to manage the details of election, candidates, election commission rules, election Dates,
+Registration. It manages the information about Election, Votes, and Registration. The project is totally built at administrative end and thus only the administration is guaranteed the access. The purpose is to build an Application Program to reduce the manual work for managing the Elections, Candidates, Votes, and Election Commission Rules. It tracks all the details about Election Commission Rules, Votes and Registrations.
+</p>
 
  
      
