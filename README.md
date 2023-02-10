@@ -24,7 +24,7 @@
  
  </p>
  <p align="center">
-  <img width="460" height="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.orfonline.org%2Fexpert-speak%2Findia-challenges-conducting-elections-during-covid19%2F&psig=AOvVaw30g2-gjMfkDvkJttAbydRf&ust=1676114772167000&source=images&cd=vfe&ved=2ahUKEwj10oae7Ir9AhVRiWMGHQM3BHoQr4kDegUIARCWAQ">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/116307514/218083494-c9ec839e-0359-4afb-a001-514283486ced.png">
 </p>
  
      
