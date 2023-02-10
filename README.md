@@ -9,7 +9,7 @@
  
  
  <p align="justify">
- Election Management System using Python-MySql Connectivity. Python is be used in database applications. One of the most popular databases is MySQL.
+ Election Management System using Python-MySql Connectivity. Python is used in database applications. MySQL is one of the most popular databases.
  </p>
  
  
