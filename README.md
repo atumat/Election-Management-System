@@ -18,10 +18,10 @@
  
   ❖ MySql- https://en.wikipedia.org/wiki/MySQL 
  </p>
-  
+  <p align="center">
   ![image](https://user-images.githubusercontent.com/116307514/218083494-c9ec839e-0359-4afb-a001-514283486ced.png)
 
- 
+ </p>
  
  
      
