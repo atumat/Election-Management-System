@@ -8,9 +8,6 @@
 </p>
  
  
- 
- 
- 
  <p align="justify">
  Election Management System using Python-MySql Connectivity.Python can be used in database applications. One of the most popular databases is MySQL.
 
@@ -55,6 +52,17 @@ Registration. It manages the information about Election, Votes, and Registration
    The assumption made herein the Election Management System is that the candidate
 names election places, party symbols and the state (from where the candidates are trying
 to win seats in elections) are all virtual and based on assumptions.
+</p>
+
+<h2 id="prob">Problems Encountered</h2>
+ <p align="justify">
+  Problems encountered in this project of Election management
+System are:
+   ➢Enrolling the names of the candidates electing from different states.
+   ➢Updating and displaying candidate details whenever required.
+   ➢Removing undesirable details and records.
+   ➢Searching of candidate details with the help of candidate number. This eases the search for the candidate details.
+   ➢Sorting performed with respect to candidate number, candidate name and election states
 </p>
 
  
