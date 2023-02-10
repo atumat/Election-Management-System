@@ -84,10 +84,9 @@ to win seats in elections) are all virtual and based on assumptions.
   I referred the following , articles and course lectures while working on this project- <br>
   https://en.wikipedia.org/wiki/Python_(programming_language)  <br> 
   https://en.wikipedia.org/wiki/MySQL   <br>
-  https://docs.python.org/3/
-  https://sultan-chand.com/ws/python12/
-  https://docs.python.org/3/
-  https://sultan-chand.com/ws/python12/
+  https://docs.python.org/3/ <br>
+  https://sultan-chand.com/ws/python12/ <br>
+  
  </p>
    
 
