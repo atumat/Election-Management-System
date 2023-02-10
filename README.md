@@ -50,6 +50,13 @@ Registration. It manages the information about Election, Votes, and Registration
    Development of Election Management System using Python- MySQL Connectivity. The project aims to manage the details of Elections, Candidates, Election Commission Rules, and Registration. The purpose of the project is to build an application to reduce the manual work for managing elections. It tracks all the Election Commission Rules, Election Dates, and Registration.
 </p>
 
+h2 id="assump">Assumptions Made</h2>
+ <p align="justify">
+   The assumption made herein the Election Management System is that the candidate
+names election places, party symbols and the state (from where the candidates are trying
+to win seats in elections) are all virtual and based on assumptions.
+</p>
+
  
      
 
