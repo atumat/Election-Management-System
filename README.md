@@ -52,9 +52,9 @@ to win seats in elections) are all virtual and based on assumptions.
 
 <h2 id="req">Requirements </h2>
  <p align="justify">
-   Python 3.7+ <br>
-   MySql 5.7+  <br>
-   Windows 8+ <br>
+  ➢ Python 3.7+ <br>
+  ➢ MySql 5.7+  <br>
+  ➢ Windows 8+ <br>
  </p>
 
 
