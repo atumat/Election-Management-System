@@ -23,8 +23,8 @@
     <li><a href="#intro"> Introduction  </a></li>
     <li><a href="#scope"> Scope of the Project </a></li>
     <li><a href="#assump"> Assumptions Made </a></li>
-    <li><a href="#database"> Database Used </a></li>
     <li><a href="#req"> Requirements </a></li>
+    <li><a href="#database"> Database Used </a></li>
     <li><a href="#user"> User defined Functions </a></li>
     <li><a href="#builtin"> Built In Functions </a></li>
     <li><a href="#prob"> Problems Encountered </a></li>
@@ -56,6 +56,12 @@ to win seats in elections) are all virtual and based on assumptions.
   ➢ MySql 5.7+  <br>
   ➢ Windows 8+ <br>
  </p>
+ <h2 id="data">Database  </h2>
+ <p align="justify">
+  ELECTION_MANAGEMENT_SYSTEM
+ </p>
+ 
+ 
 
 
 
