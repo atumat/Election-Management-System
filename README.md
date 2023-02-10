@@ -28,21 +28,26 @@
 <h3> TABLE OF CONTENTS </h3>
 <ol type="I">
     <li><a href="#intro"> Introduction  </a></li>
-    <li><a href="#algo"> Scope of the Project </a></li>
-    <li><a href="#VPTree"> Assumptions Made </a></li>
-    <li><a href="#dataset"> Database Used </a></li>
-    <li><a href="#usage"> User defined Functions </a></li>
-    <li><a href="#acknowledgement"> Built In Functions </a></li>
-    <li><a href="#algo"> Problems Encountered </a></li>
-    <li><a href="#VPTree"> Limitations </a></li>
-    <li><a href="#dataset"> Extensions Possible </a></li>
-    <li><a href="#usage"> Bibliography </a></li>
+    <li><a href="#scope"> Scope of the Project </a></li>
+    <li><a href="#assump"> Assumptions Made </a></li>
+    <li><a href="#database"> Database Used </a></li>
+    <li><a href="#user"> User defined Functions </a></li>
+    <li><a href="#builtin"> Built In Functions </a></li>
+    <li><a href="#prob"> Problems Encountered </a></li>
+    <li><a href="#limi"> Limitations </a></li>
+    <li><a href="#extension"> Extensions Possible </a></li>
+    <li><a href="#biblio"> Bibliography </a></li>
     
  </ol>
  <h2 id="intro">Introduction</h2>
  <p align="justify">
    The main objective of the Python Project on Election Management System is to manage the details of election, candidates, election commission rules, election Dates,
 Registration. It manages the information about Election, Votes, and Registration. The project is totally built at administrative end and thus only the administration is guaranteed the access. The purpose is to build an Application Program to reduce the manual work for managing the Elections, Candidates, Votes, and Election Commission Rules. It tracks all the details about Election Commission Rules, Votes and Registrations.
+</p>
+
+<h2 id="scope">Scope</h2>
+ <p align="justify">
+   Development of Election Management System using Python- MySQL Connectivity. The project aims to manage the details of Elections, Candidates, Election Commission Rules, and Registration. The purpose of the project is to build an application to reduce the manual work for managing elections. It tracks all the Election Commission Rules, Election Dates, and Registration.
 </p>
 
  
