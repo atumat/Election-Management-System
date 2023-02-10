@@ -31,7 +31,6 @@
     <li><a href="#user"> User defined Functions </a></li>
     <li><a href="#builtin"> Built In Functions </a></li>
     <li><a href="#prob"> Problems Encountered </a></li>
-    <li><a href="#limi"> Limitations </a></li>
     <li><a href="#extension"> Extensions Possible </a></li>
     <li><a href="#biblio"> Bibliography </a></li>
     
