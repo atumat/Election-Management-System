@@ -17,6 +17,7 @@
   ❖ Python - https://en.wikipedia.org/wiki/Python_(programming_language) 
  
   ❖ MySql- https://en.wikipedia.org/wiki/MySQL 
+ </p>
   
   ![image](https://user-images.githubusercontent.com/116307514/218083494-c9ec839e-0359-4afb-a001-514283486ced.png)
 
