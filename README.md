@@ -57,11 +57,11 @@ to win seats in elections) are all virtual and based on assumptions.
  <p align="justify">
   Problems encountered in this project of Election management
 System are:
-   ➢Enrolling the names of the candidates electing from different states.
-   ➢Updating and displaying candidate details whenever required.
-   ➢Removing undesirable details and records.
-   ➢Searching of candidate details with the help of candidate number. This eases the search for the candidate details.
-   ➢Sorting performed with respect to candidate number, candidate name and election states
+   ➢Enrolling the names of the candidates electing from different states <br>
+   ➢Updating and displaying candidate details whenever required <br>
+   ➢Removing undesirable details and records <br>
+   ➢Searching of candidate details with the help of candidate number. This eases the search for the candidate details <br>
+   ➢Sorting performed with respect to candidate number, candidate name and election states <br>
 </p>
 
  
