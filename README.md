@@ -24,6 +24,7 @@
     <li><a href="#scope"> Scope of the Project </a></li>
     <li><a href="#assump"> Assumptions Made </a></li>
     <li><a href="#database"> Database Used </a></li>
+    <li><a href="#req"> Requirements </a></li>
     <li><a href="#user"> User defined Functions </a></li>
     <li><a href="#builtin"> Built In Functions </a></li>
     <li><a href="#prob"> Problems Encountered </a></li>
@@ -49,6 +50,19 @@ names election places, party symbols and the state (from where the candidates ar
 to win seats in elections) are all virtual and based on assumptions.
 </p>
 
+<h2 id="req">Requirements </h2>
+ <p align="justify">
+   Python 8+ <br>
+   MySql 5.7+     <br>
+ </p>
+
+
+
+
+
+
+
+
 <h2 id="prob">Problems Encountered</h2>
  <p align="justify">
   Problems encountered in this project of Election management System are:  <br>
@@ -71,7 +85,7 @@ to win seats in elections) are all virtual and based on assumptions.
  MySq l-  https://en.wikipedia.org/wiki/MySQL   <br>
  </p>
    
-</p>
+
 
  
      
