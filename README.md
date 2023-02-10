@@ -69,8 +69,8 @@ to win seats in elections) are all virtual and based on assumptions.
 <h2 id="biblio">Bibliography </h2>
  <p align="justify">
    I referred the following , articles and course lectures while working on this project- <br>
-    Python - https://en.wikipedia.org/wiki/Python_(programming_language)  <br>
-    MySql- https://en.wikipedia.org/wiki/MySQL  <br>
+ Python - <code>  https://en.wikipedia.org/wiki/Python_(programming_language) </code> <br> 
+ MySq l-  <code>  https://en.wikipedia.org/wiki/MySQL </code>  <br>
  </p>
    
 </p>
