@@ -53,13 +53,6 @@
 ❖ def Delete()
 
 
-<h2>Functions Used (Built In):</h2>
-
-❖  int
-
-❖  str
-
-❖  input
 
 
 
