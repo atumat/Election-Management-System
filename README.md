@@ -24,6 +24,24 @@
  <p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/116307514/218083494-c9ec839e-0359-4afb-a001-514283486ced.png">
 </p>
+
+<h3> TABLE OF CONTENTS </h3>
+<ol type="I">
+    <li><a href="#intro"> Introduction  </a></li>
+    <li><a href="#algo"> Scope of the Project </a></li>
+    <li><a href="#VPTree"> Assumptions Made </a></li>
+    <li><a href="#dataset"> Database Used </a></li>
+    <li><a href="#usage"> User defined Functions </a></li>
+    <li><a href="#acknowledgement"> Built In Functions </a></li>
+    <li><a href="#algo"> Problems Encountered </a></li>
+    <li><a href="#VPTree"> Limitations </a></li>
+    <li><a href="#dataset"> Extensions Possible </a></li>
+    <li><a href="#usage"> Bibliography </a></li>
+    
+ 
+ 
+</ol>
+
  
      
 
