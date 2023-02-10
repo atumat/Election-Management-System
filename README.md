@@ -9,9 +9,7 @@
  
  
  <p align="justify">
- Election Management System using Python-MySql Connectivity.Python can be used in database applications. One of the most popular databases is MySQL.
-
-  
+ Election Management System using Python-MySql Connectivity. Python is be used in database applications. One of the most popular databases is MySQL.
  </p>
  
  
@@ -69,8 +67,8 @@ to win seats in elections) are all virtual and based on assumptions.
 <h2 id="biblio">Bibliography </h2>
  <p align="justify">
    I referred the following , articles and course lectures while working on this project- <br>
- Python - <code>  https://en.wikipedia.org/wiki/Python_(programming_language) </code> <br> 
- MySq l-  <code>  https://en.wikipedia.org/wiki/MySQL </code>  <br>
+ Python - https://en.wikipedia.org/wiki/Python_(programming_language)  <br> 
+ MySq l-  https://en.wikipedia.org/wiki/MySQL   <br>
  </p>
    
 </p>
