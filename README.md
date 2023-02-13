@@ -25,8 +25,6 @@
     <li><a href="#assump"> Assumptions Made </a></li>
     <li><a href="#req"> Requirements </a></li>
     <li><a href="#database"> Database Used </a></li>
-    <li><a href="#prob"> Problems Encountered </a></li>
-    <li><a href="#extension"> Extensions Possible </a></li>
     <li><a href="#biblio"> Bibliography </a></li>
     
  </ol>
