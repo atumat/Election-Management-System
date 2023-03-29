@@ -2,7 +2,6 @@
  
  
  
- 
  <p align="center">
 <img src="https://img.shields.io/badge/made%20by%20-Aarti-blue">
 <img src="https://img.shields.io/badge/Python-red">
