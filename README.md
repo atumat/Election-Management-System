@@ -14,7 +14,6 @@
  Election Management System using Python-MySql Connectivity. Python is used in database applications. MySQL is one of the most popular databases. The project uses  relational Database to store candidates, voters, number of votes and Election Commission Rules
  </p>
  
- 
  </p>
  <p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/116307514/218083494-c9ec839e-0359-4afb-a001-514283486ced.png">
