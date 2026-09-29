@@ -1,6 +1,5 @@
  <h1>Election Management System</h1>
  
- 
   
  <p align="center">
 <img src="https://img.shields.io/badge/made%20by%20-Aarti-blue">
@@ -9,9 +8,6 @@
 <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103">
 </p>
 
- 
-
- 
  
  <p align="justify">
  Election Management System using Python-MySql Connectivity. Python is used in database applications. MySQL is one of the most popular databases. The project uses  relational Database to store candidates, voters, number of votes and Election Commission Rules
